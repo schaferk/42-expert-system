@@ -4,7 +4,7 @@
 
 > Python implementation of a backward chaining inference engine.
 
-[To understand how the resolver works, you can refer to my medium article here.](http://localhost:3000/articles/6-build-a-backward-chaining-expert-system)
+[To understand how the resolver works, you can refer to my medium article here.](https://www.jterrazz.com/articles/6-build-a-backward-chaining-expert-system)
 
 ## Presentation
 
